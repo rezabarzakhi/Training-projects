@@ -1,0 +1,59 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto+Condensed);
+@import url(https://fonts.googleapis.com/css?family=Roboto);
+body {
+    background-color: #dddddd !important ;
+}
+.pbg {
+    background-color: #fff;
+    border-radius: 50px;
+    width: 1600;
+}
+.bg1 {
+    background-color: #FFC42A ;
+    border-radius: 30px;
+    padding: 20px;
+}
+li a {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+}
+.btn1 {
+    color: #fff !important;
+    background: #FFB800 !important;
+    border-radius: 8px !important;
+    padding: 2px 30px !important;
+    z-index: 999;
+}
+.btn2 {
+    color: black;
+    background: #E5E5E5 !important;
+    border-radius: 0px  8px 8px  0px !important;
+    padding: 2px 30px !important;
+    transform: translate(-3px, 0px);
+}
+.cardnew h5 {
+    width: 80%;
+    font-family: Roboto Condensed;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 72px;
+    line-height: 84px;
+}
+.cardnew p {
+    width: 80%;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 19px;
+    line-height: 22px;
+}
+.bookbtn {
+    background: linear-gradient(95.78deg, #FFB800 45.4%, #F74316 106.45%);
+    border-radius: 10px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 28px;
+}
